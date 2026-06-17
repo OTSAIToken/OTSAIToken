@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://OTSAIToken.github.io/sitemap.xml
+
+<title>OTSAI Token</title>
+<meta name="description" content="OTSAI Token is a bright AI macro intelligence infrastructure website focused on NLP technology, sentiment resonance filtering, signal clarity, and execution systems.">
